@@ -99,8 +99,8 @@ export default function PostForm({ post }) {
                     </Button>
                 </div>
             </div>
-            <div className="w-1/3 px-2 hidden">
-                <div className="hidden">
+            <div className="w-1/3 px-2 ">
+                <div className="">
                     <Input
                         label="Featured Image :"
                         type="file"
